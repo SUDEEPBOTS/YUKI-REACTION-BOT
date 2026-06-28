@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 import glob
 from os.path import basename, dirname, isfile
 

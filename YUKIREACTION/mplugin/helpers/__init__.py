@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 from typing import Callable
 
 from pyrogram.enums import ChatMemberStatus

@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 from os import getenv
 
 from dotenv import load_dotenv

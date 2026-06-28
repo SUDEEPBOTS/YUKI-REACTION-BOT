@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 import asyncio
 import logging
 import random

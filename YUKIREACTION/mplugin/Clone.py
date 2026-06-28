@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 import logging
 import os
 from pyrogram.enums import ParseMode

@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 from pyrogram import filters, Client
 from pyrogram.types import Message
 

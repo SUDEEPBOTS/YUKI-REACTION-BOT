@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 from YUKIREACTION import mongodb
 from typing import Dict, List, Union
 

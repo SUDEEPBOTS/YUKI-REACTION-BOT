@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 from config import OWNER_USERNAME, SUPPORT_GRP
 from YUKIREACTION import YUKIREACTION
 from pyrogram import Client, filters

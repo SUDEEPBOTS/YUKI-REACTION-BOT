@@ -1,3 +1,6 @@
+# © 2026 HellfireDevs / SUDEEPBOTS
+# All Rights Reserved.
+
 import random
 from pymongo import MongoClient
 from pyrogram import Client, filters
