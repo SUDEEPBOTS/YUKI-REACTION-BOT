@@ -1,5 +1,11 @@
-# © 2026 HellfireDevs / SUDEEPBOTS
-# All Rights Reserved.
+# Copyright (c) 2026 @SUDEEPBOTS <HellfireDevs>
+# Location: delhi,noida
+#
+# All rights reserved.
+#
+# This code is the intellectual property of SUDEEPBOTS.
+# You are not allowed to copy, modify, redistribute, or use this
+# code for commercial or personal projects without explicit permission.
 
 import asyncio
 import logging
