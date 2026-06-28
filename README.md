@@ -1,98 +1,87 @@
-<div align="center">
+<h1 align="center">
+  <br>
+  <a href="https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT"><img src="https://img.icons8.com/nolan/256/bot.png" alt="Yuki Reaction Bot" width="200"></a>
+  <br>
+  ⚡ 𝗬𝗨𝗞𝗜 𝗥𝗘𝗔𝗖𝗧𝗜𝗢𝗡 𝗕𝗢𝗧 ⚡
+  <br>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YUKI%20REACTION%20BOT&fontSize=50&animation=twinkling&fontAlignY=35&desc=Pyrogram%20Auto%20Reactor&descAlignY=60&descAlign=50" alt="YUKI REACTION BOT Banner">
+<h4 align="center">A high-performance Pyrogram MTProto bot that automatically drops emoji reactions on messages.</h4>
 
-<br>
-
-[![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white&color=black)](#)
-[![Pyrogram](https://img.shields.io/badge/Pyrogram-V2-blue?style=for-the-badge&logo=telegram&logoColor=white&color=black)](#)
-[![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge&color=black)](#)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker&logoColor=white&color=black)](#)
-
-<br>
-<img src="https://github.com/user-attachments/assets/a40a6b72-3580-4fa2-bfda-90d5718df730" width="80%">
-<br>
-
-**Your ultimate tool to keep groups and channels engaging automatically!**
-
-</div>
-
----
-
-### 💠 𝗪𝗛𝗬 𝗬𝗨𝗞𝗜 𝗥𝗘𝗔𝗖𝗧𝗜𝗢𝗡 𝗕𝗢𝗧?
-
-Unlike standard bots, **YUKI REACTION** leverages Pyrogram's MTProto API to act like a real user. It listens to conversations and instantly reacts with customized emojis. 
-
-Whether it's a massive discussion group or an announcement channel, this bot ensures every message feels seen.
+<p align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.11-000?style=for-the-badge&logo=python&logoColor=3776AB">
+  </a>
+  <a href="https://docs.pyrogram.org/">
+    <img src="https://img.shields.io/badge/Pyrogram-V2.0-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
+  </a>
+  <a href="https://mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-Cloud-000?style=for-the-badge&logo=mongodb&logoColor=47A248">
+  </a>
+</p>
 
 ---
 
-### 🚀 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
+## ✦ 𝗔𝗯𝗼𝘂𝘁 𝗧𝗵𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
-> **Multi-Client Architecture**
-> Run multiple sessions simultaneously without rate limits.
+**YUKI REACTION BOT** is designed to keep your Telegram Channels and Groups highly active and engaged. By utilizing multiple client sessions simultaneously, it listens to incoming messages and instantly drops customized emojis without human intervention.
 
-> **Zero Downtime**
-> Fully async engine powered by Python 3.11+ and Motor (MongoDB).
-
-> **Smart Emoji Filtering**
-> Configure specific emojis for specific media types (Text, Images, Videos).
+*No more dead chats. Let the bot do the engagement.*
 
 ---
 
-### 🛠️ 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘
+## ✦ 𝗖𝗼𝗿𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
-#### ☁️ Quick Cloud Deploy
-Get your bot running in under 2 minutes with zero terminal commands!
+- 🟢 **Always Alive**: Fully asynchronous architecture prevents blocking.
+- 👥 **Multi-Client Sessions**: Add multiple accounts to react faster.
+- 🎯 **Targeted Reactions**: Define custom emojis for texts, media, or specific users.
+- 🛡️ **Anti-Spam**: Intelligent delay mechanics to prevent account bans.
 
-<div align="center">
-  
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT)
+---
 
-</div>
+## ✦ 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱𝘀
 
-#### 💻 Local / VPS Deployment
+### ☁️ Heroku / Render
 
-**1. Clone the Source Code**
-```bash
-git clone https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT.git
-cd YUKI-REACTION-BOT
-```
+Deploy instantly via these cloud platforms:
 
-**2. Setup Environment**
-```bash
-pip install -r requirements.txt
-cp sample.env .env
-# Edit .env with your API ID, HASH, and BOT TOKEN
-```
+<a href="https://heroku.com/deploy?template=https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a href="https://render.com/deploy?repo=https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Render-000?style=for-the-badge&logo=render&logoColor=white"></a>
 
-**3. Ignite the Bot**
-```bash
-python3 -m YUKIREACTION
+### 💻 VPS / Linux Terminal
+
+For users hosting on their own Virtual Private Server (VPS):
+
+```shell
+# Clone the Repo
+$ git clone https://github.com/SUDEEPBOTS/YUKI-REACTION-BOT.git
+
+# Enter Directory
+$ cd YUKI-REACTION-BOT
+
+# Install Requirements
+$ pip3 install -U -r requirements.txt
+
+# Start Bot
+$ python3 -m YUKIREACTION
 ```
 
 ---
 
-### 🗃️ 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
+## ✦ 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝗦𝗲𝘁𝘂𝗽
 
-Make sure your `.env` file contains the following critical variables:
+Create a `.env` file or export these variables in your host:
 
-| Variable | Description |
-|---|---|
-| `API_ID` | Your Telegram API ID from my.telegram.org |
-| `API_HASH` | Your Telegram API Hash |
-| `BOT_TOKEN` | Token generated from @BotFather |
-| `MONGO_DB_URI` | Your MongoDB Connection String |
-| `OWNER_ID` | Your Telegram User ID for admin controls |
+```env
+API_ID=1234567
+API_HASH=your_api_hash_here
+BOT_TOKEN=your_bot_token_here
+MONGO_DB_URI=mongodb+srv://...
+OWNER_ID=123456789
+```
 
 ---
 
-<div align="center">
-
-**Developed with 🖤 by [@SUDEEPBOTS](https://github.com/SUDEEPBOTS)**  
-*Join our [Telegram Channel](https://t.me/SUDEEPBOTS) for updates and support.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%">
-
-</div>
+<h3 align="center">
+  Developed by <a href="https://github.com/SUDEEPBOTS">SUDEEPBOTS</a>
+</h3>
